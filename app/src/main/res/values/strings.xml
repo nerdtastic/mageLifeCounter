@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Magic Life Counter</string>
+    <string name="playersTextView_string">Number of Players</string>
+    <string name="lifeTextView_string">Starting Life</string>
+    <string name="playerCountString">0</string>
+    <string name="playerLifeString">20</string>
+</resources>
